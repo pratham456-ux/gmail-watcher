@@ -1,0 +1,290 @@
+Sat Jun 21 10:41:00 2025 - [resource_path] .env resolved to C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\.env
+Sat Jun 21 10:41:00 2025 - [ENV] Trying to load .env from: C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\.env
+Sat Jun 21 10:41:00 2025 - [ENV] Loaded TARGET_SENDERS raw: 22it.tpc@adit.ac.in,parekhmanoj571@gmail.com
+Sat Jun 21 10:41:00 2025 - 🚀 Script started.
+Sat Jun 21 10:41:00 2025 - [INFO] TARGET_SENDERS loaded: ['22it.tpc@adit.ac.in', 'parekhmanoj571@gmail.com']
+Sat Jun 21 10:41:00 2025 - [INFO] Starting Gmail authentication...
+Sat Jun 21 10:41:00 2025 - [resource_path] credentials.json resolved to C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\credentials.json
+Sat Jun 21 10:41:00 2025 - [AUTH] Checking for token.json at: C:\Python313\token.json
+Sat Jun 21 10:41:00 2025 - [AUTH] Checking for credentials.json at: C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\credentials.json
+Sat Jun 21 10:41:00 2025 - [AUTH] Loaded token.json successfully.
+Sat Jun 21 10:41:00 2025 - [INFO] Gmail authenticated successfully.
+Sat Jun 21 10:41:01 2025 - [CHECK] Found 100 unread messages.
+Sat Jun 21 10:41:02 2025 - [EMAIL] From: buyonline@info.tataaia.com, Subject: Secure Lower Premiums & additional 5% discount Before the Price Hike only with Tata AIA Life!
+Sat Jun 21 10:41:02 2025 - [EMAIL] From: ventures@duskytech.co, Subject: Software Developer Role
+Sat Jun 21 10:41:03 2025 - [EMAIL] From: parekhmanoj571@gmail.com, Subject: ss
+Sat Jun 21 10:41:03 2025 - [MATCH] Match found for: parekhmanoj571@gmail.com
+Sat Jun 21 10:41:03 2025 - [NOTIFY] Toast shown successfully.
+Sat Jun 21 10:41:04 2025 - [EMAIL] From: parekhmanoj571@gmail.com, Subject: fg
+Sat Jun 21 10:41:04 2025 - [MATCH] Match found for: parekhmanoj571@gmail.com
+Sat Jun 21 10:41:04 2025 - [NOTIFY] Toast shown successfully.
+Sat Jun 21 10:41:06 2025 - [EMAIL] From: parekhmanoj571@gmail.com, Subject: test3
+Sat Jun 21 10:41:06 2025 - [MATCH] Match found for: parekhmanoj571@gmail.com
+Sat Jun 21 10:41:06 2025 - [NOTIFY] Toast shown successfully.
+Sat Jun 21 10:41:06 2025 - [INFO] Script stopped by user (KeyboardInterrupt).
+Sat Jun 21 16:50:09 2025 - [resource_path] .env resolved to C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\.env
+Sat Jun 21 16:50:09 2025 - [ENV] Trying to load .env from: C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\.env
+Sat Jun 21 16:50:09 2025 - [ENV] Loaded TARGET_SENDERS raw: 22it.tpc@adit.ac.in,parekhmanoj571@gmail.com
+Sat Jun 21 16:50:09 2025 - 🚀 Script started.
+Sat Jun 21 16:50:09 2025 - [INFO] TARGET_SENDERS loaded: ['22it.tpc@adit.ac.in', 'parekhmanoj571@gmail.com']
+Sat Jun 21 16:50:09 2025 - [INFO] Starting Gmail authentication...
+Sat Jun 21 16:50:09 2025 - [resource_path] credentials.json resolved to C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\credentials.json
+Sat Jun 21 16:50:09 2025 - [AUTH] Checking for token.json at: C:\Python313\token.json
+Sat Jun 21 16:50:09 2025 - [AUTH] Checking for credentials.json at: C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\credentials.json
+Sat Jun 21 16:50:09 2025 - [AUTH] Loaded token.json successfully.
+Sat Jun 21 16:50:09 2025 - [AUTH] No valid token found. Initiating OAuth flow...
+Sat Jun 21 16:59:15 2025 - [resource_path] .env resolved to C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\.env
+Sat Jun 21 16:59:15 2025 - [ENV] Trying to load .env from: C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\.env
+Sat Jun 21 16:59:15 2025 - [ENV] Loaded TARGET_SENDERS raw: 22it.tpc@adit.ac.in,parekhmanoj571@gmail.com
+Sat Jun 21 16:59:15 2025 - 🚀 Script started.
+Sat Jun 21 16:59:15 2025 - [INFO] TARGET_SENDERS loaded: ['22it.tpc@adit.ac.in', 'parekhmanoj571@gmail.com']
+Sat Jun 21 16:59:15 2025 - [INFO] Starting Gmail authentication...
+Sat Jun 21 16:59:15 2025 - [resource_path] credentials.json resolved to C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\credentials.json
+Sat Jun 21 16:59:15 2025 - [AUTH] Checking for token.json at: C:\Python313\token.json
+Sat Jun 21 16:59:15 2025 - [AUTH] Checking for credentials.json at: C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\credentials.json
+Sat Jun 21 16:59:15 2025 - [AUTH] Loaded token.json successfully.
+Sat Jun 21 16:59:15 2025 - [AUTH] No valid token found. Initiating OAuth flow...
+Sat Jun 21 16:59:15 2025 - [AUTH] Opened browser for OAuth login: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=1058562286973-or83qq8qcpd3htpi0llhofd37kvkm553.apps.googleusercontent.com&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly&state=L8qmx21pvCq4uqyfxpkaeLTYRjghmn&prompt=consent&access_type=offline
+Sat Jun 21 17:01:11 2025 - [resource_path] .env resolved to C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\.env
+Sat Jun 21 17:01:11 2025 - [ENV] Trying to load .env from: C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\.env
+Sat Jun 21 17:01:11 2025 - [ENV] Loaded TARGET_SENDERS raw: 22it.tpc@adit.ac.in,parekhmanoj571@gmail.com
+Sat Jun 21 17:01:11 2025 - 🚀 Script started.
+Sat Jun 21 17:01:11 2025 - [INFO] TARGET_SENDERS loaded: ['22it.tpc@adit.ac.in', 'parekhmanoj571@gmail.com']
+Sat Jun 21 17:01:11 2025 - [INFO] Starting Gmail authentication...
+Sat Jun 21 17:01:11 2025 - [resource_path] credentials.json resolved to C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\credentials.json
+Sat Jun 21 17:01:11 2025 - [AUTH] Checking for token.json at: C:\Python313\token.json
+Sat Jun 21 17:01:11 2025 - [AUTH] Checking for credentials.json at: C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\credentials.json
+Sat Jun 21 17:01:11 2025 - [AUTH] Loaded token.json successfully.
+Sat Jun 21 17:01:11 2025 - [AUTH] No valid token found. Starting manual browser OAuth flow...
+Sat Jun 21 17:01:11 2025 - [AUTH] Browser successfully opened: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=1058562286973-or83qq8qcpd3htpi0llhofd37kvkm553.apps.googleusercontent.com&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly&state=0XriwDa8vOUETJPJEb59M9pkvtHEDv&prompt=consent&access_type=offline&include_granted_scopes=true
+Sat Jun 21 17:04:10 2025 - [resource_path] .env resolved to C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\.env
+Sat Jun 21 17:04:10 2025 - [ENV] Trying to load .env from: C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\.env
+Sat Jun 21 17:04:10 2025 - [ENV] Loaded TARGET_SENDERS raw: 22it.tpc@adit.ac.in,parekhmanoj571@gmail.com
+Sat Jun 21 17:04:10 2025 - 🚀 Script started.
+Sat Jun 21 17:04:10 2025 - [INFO] TARGET_SENDERS loaded: ['22it.tpc@adit.ac.in', 'parekhmanoj571@gmail.com']
+Sat Jun 21 17:04:10 2025 - [INFO] Starting Gmail authentication...
+Sat Jun 21 17:04:10 2025 - [resource_path] credentials.json resolved to C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\credentials.json
+Sat Jun 21 17:04:10 2025 - [AUTH] Checking for token.json at: C:\Python313\token.json
+Sat Jun 21 17:04:10 2025 - [AUTH] Checking for credentials.json at: C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\credentials.json
+Sat Jun 21 17:04:10 2025 - [AUTH] Loaded token.json successfully.
+Sat Jun 21 17:04:10 2025 - [AUTH] No valid token found. Starting manual browser OAuth flow...
+Sat Jun 21 17:04:10 2025 - [AUTH] Opened URL in Chrome: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=1058562286973-or83qq8qcpd3htpi0llhofd37kvkm553.apps.googleusercontent.com&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly&state=lVHSO96V0Dv8Gv1NxGvVcr8e6Mm4Yd&prompt=consent&access_type=offline&include_granted_scopes=true
+Sat Jun 21 17:04:21 2025 - [AUTH] New token.json saved.
+Sat Jun 21 17:04:21 2025 - [INFO] Gmail authenticated successfully.
+Sat Jun 21 17:04:22 2025 - [CHECK] Found 100 unread messages.
+Sat Jun 21 17:04:23 2025 - [EMAIL] From: parekhmanoj571@gmail.com, Subject: t
+Sat Jun 21 17:04:23 2025 - [MATCH] Match found for: parekhmanoj571@gmail.com
+Sat Jun 21 17:04:23 2025 - [NOTIFY] Toast shown successfully.
+Sat Jun 21 17:04:24 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Engineer position in Vadodara
+Sat Jun 21 17:04:24 2025 - [EMAIL] From: noreply@glassdoor.com, Subject: Emgage,InXee Systems Pvt. Ltd,Weekday: Apply Now
+Sat Jun 21 17:04:25 2025 - [EMAIL] From: groups-noreply@linkedin.com, Subject: Don’t miss conversations in JavaScript
+Sat Jun 21 17:04:25 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Engineer position in anand
+Sat Jun 21 17:04:26 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Developer position in Anand
+Sat Jun 21 17:04:26 2025 - [EMAIL] From: buyonline@info.tataaia.com, Subject: Secure Lower Premiums & additional 5% discount Before the Price Hike only with Tata AIA Life!
+Sat Jun 21 17:04:27 2025 - [EMAIL] From: ventures@duskytech.co, Subject: Software Developer Role
+Sat Jun 21 17:04:27 2025 - [EMAIL] From: no-reply@accounts.google.com, Subject: Security alert
+Sat Jun 21 17:04:28 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Engineer position in Anand
+Sat Jun 21 17:04:28 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Engineer position in Anand
+Sat Jun 21 17:04:28 2025 - [EMAIL] From: no-reply@hire.lever.co, Subject: Thank you for your application to Panopto
+Sat Jun 21 17:04:29 2025 - [EMAIL] From: no-reply@remote.com, Subject: Thank you for applying to Dusky
+Sat Jun 21 17:04:29 2025 - [EMAIL] From: hello@talent.remote.com, Subject: Welcome to Remote Talent!
+Sat Jun 21 17:04:30 2025 - [EMAIL] From: indeedapply@indeed.com, Subject: Indeed Application: React Js developer
+Sat Jun 21 17:04:30 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Developer position in Anand
+Sat Jun 21 17:04:31 2025 - [EMAIL] From: newsletters-noreply@linkedin.com, Subject: Get ready for Prime Day 2025 coming July 8–11, plus Amazon's record-setting investment in Australia's AI future, and more
+Sat Jun 21 17:04:32 2025 - [EMAIL] From: noreply@glassdoor.com, Subject: Software Engineer – Algo at Trading Technologies and 7 more jobs in Ahmedabad for you. Apply Now.
+Sat Jun 21 17:04:32 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Engineer position in Anand
+Sat Jun 21 17:04:33 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Web Development Intern position in Vadodara
+Sat Jun 21 17:04:33 2025 - [EMAIL] From: noreply@glassdoor.com, Subject: MERN Stack Developer at NexusLink and 12 more jobs in Ahmedabad for you. Apply Now.
+Sat Jun 21 17:04:34 2025 - [INFO] Script stopped by user (KeyboardInterrupt).
+Sat Jun 21 17:04:40 2025 - [resource_path] .env resolved to C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\.env
+Sat Jun 21 17:04:40 2025 - [ENV] Trying to load .env from: C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\.env
+Sat Jun 21 17:04:40 2025 - [ENV] Loaded TARGET_SENDERS raw: 22it.tpc@adit.ac.in,parekhmanoj571@gmail.com
+Sat Jun 21 17:04:40 2025 - 🚀 Script started.
+Sat Jun 21 17:04:40 2025 - [INFO] TARGET_SENDERS loaded: ['22it.tpc@adit.ac.in', 'parekhmanoj571@gmail.com']
+Sat Jun 21 17:04:40 2025 - [INFO] Starting Gmail authentication...
+Sat Jun 21 17:04:40 2025 - [resource_path] credentials.json resolved to C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\credentials.json
+Sat Jun 21 17:04:40 2025 - [AUTH] Checking for token.json at: C:\Python313\token.json
+Sat Jun 21 17:04:40 2025 - [AUTH] Checking for credentials.json at: C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\credentials.json
+Sat Jun 21 17:04:40 2025 - [AUTH] Loaded token.json successfully.
+Sat Jun 21 17:04:40 2025 - [INFO] Gmail authenticated successfully.
+Sat Jun 21 17:04:41 2025 - [CHECK] Found 100 unread messages.
+Sat Jun 21 17:04:41 2025 - [EMAIL] From: parekhmanoj571@gmail.com, Subject: t
+Sat Jun 21 17:04:41 2025 - [MATCH] Match found for: parekhmanoj571@gmail.com
+Sat Jun 21 17:04:41 2025 - [NOTIFY] Toast shown successfully.
+Sat Jun 21 17:04:43 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Engineer position in Vadodara
+Sat Jun 21 17:04:43 2025 - [EMAIL] From: noreply@glassdoor.com, Subject: Emgage,InXee Systems Pvt. Ltd,Weekday: Apply Now
+Sat Jun 21 17:04:43 2025 - [EMAIL] From: groups-noreply@linkedin.com, Subject: Don’t miss conversations in JavaScript
+Sat Jun 21 17:04:44 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Engineer position in anand
+Sat Jun 21 17:04:44 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Developer position in Anand
+Sat Jun 21 17:04:45 2025 - [EMAIL] From: buyonline@info.tataaia.com, Subject: Secure Lower Premiums & additional 5% discount Before the Price Hike only with Tata AIA Life!
+Sat Jun 21 17:04:45 2025 - [EMAIL] From: ventures@duskytech.co, Subject: Software Developer Role
+Sat Jun 21 17:04:46 2025 - [EMAIL] From: no-reply@accounts.google.com, Subject: Security alert
+Sat Jun 21 17:04:46 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Engineer position in Anand
+Sat Jun 21 17:04:46 2025 - [INFO] Script stopped by user (KeyboardInterrupt).
+Sat Jun 21 17:04:59 2025 - [resource_path] .env resolved to C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\.env
+Sat Jun 21 17:04:59 2025 - [ENV] Trying to load .env from: C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\.env
+Sat Jun 21 17:04:59 2025 - [ENV] Loaded TARGET_SENDERS raw: 22it.tpc@adit.ac.in,parekhmanoj571@gmail.com
+Sat Jun 21 17:04:59 2025 - 🚀 Script started.
+Sat Jun 21 17:04:59 2025 - [INFO] TARGET_SENDERS loaded: ['22it.tpc@adit.ac.in', 'parekhmanoj571@gmail.com']
+Sat Jun 21 17:04:59 2025 - [INFO] Starting Gmail authentication...
+Sat Jun 21 17:04:59 2025 - [resource_path] credentials.json resolved to C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\credentials.json
+Sat Jun 21 17:04:59 2025 - [AUTH] Checking for token.json at: C:\Python313\token.json
+Sat Jun 21 17:04:59 2025 - [AUTH] Checking for credentials.json at: C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\credentials.json
+Sat Jun 21 17:04:59 2025 - [AUTH] Loaded token.json successfully.
+Sat Jun 21 17:04:59 2025 - [INFO] Gmail authenticated successfully.
+Sat Jun 21 17:04:59 2025 - [CHECK] Found 100 unread messages.
+Sat Jun 21 17:05:00 2025 - [EMAIL] From: parekhmanoj571@gmail.com, Subject: t
+Sat Jun 21 17:05:00 2025 - [MATCH] Match found for: parekhmanoj571@gmail.com
+Sat Jun 21 17:05:00 2025 - [NOTIFY] Toast shown successfully.
+Sat Jun 21 17:05:01 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Engineer position in Vadodara
+Sat Jun 21 17:05:02 2025 - [EMAIL] From: noreply@glassdoor.com, Subject: Emgage,InXee Systems Pvt. Ltd,Weekday: Apply Now
+Sat Jun 21 17:05:03 2025 - [EMAIL] From: groups-noreply@linkedin.com, Subject: Don’t miss conversations in JavaScript
+Sat Jun 21 17:05:03 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Engineer position in anand
+Sat Jun 21 17:05:04 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Developer position in Anand
+Sat Jun 21 17:05:04 2025 - [EMAIL] From: buyonline@info.tataaia.com, Subject: Secure Lower Premiums & additional 5% discount Before the Price Hike only with Tata AIA Life!
+Sat Jun 21 17:05:05 2025 - [EMAIL] From: ventures@duskytech.co, Subject: Software Developer Role
+Sat Jun 21 17:05:05 2025 - [EMAIL] From: no-reply@accounts.google.com, Subject: Security alert
+Sat Jun 21 17:05:05 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Engineer position in Anand
+Sat Jun 21 17:05:06 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Engineer position in Anand
+Sat Jun 21 17:05:06 2025 - [EMAIL] From: no-reply@hire.lever.co, Subject: Thank you for your application to Panopto
+Sat Jun 21 17:05:07 2025 - [EMAIL] From: no-reply@remote.com, Subject: Thank you for applying to Dusky
+Sat Jun 21 17:05:07 2025 - [EMAIL] From: hello@talent.remote.com, Subject: Welcome to Remote Talent!
+Sat Jun 21 17:05:07 2025 - [EMAIL] From: indeedapply@indeed.com, Subject: Indeed Application: React Js developer
+Sat Jun 21 17:05:08 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Developer position in Anand
+Sat Jun 21 17:05:08 2025 - [EMAIL] From: newsletters-noreply@linkedin.com, Subject: Get ready for Prime Day 2025 coming July 8–11, plus Amazon's record-setting investment in Australia's AI future, and more
+Sat Jun 21 17:05:09 2025 - [EMAIL] From: noreply@glassdoor.com, Subject: Software Engineer – Algo at Trading Technologies and 7 more jobs in Ahmedabad for you. Apply Now.
+Sat Jun 21 17:05:09 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Engineer position in Anand
+Sat Jun 21 17:05:10 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Web Development Intern position in Vadodara
+Sat Jun 21 17:05:10 2025 - [EMAIL] From: noreply@glassdoor.com, Subject: MERN Stack Developer at NexusLink and 12 more jobs in Ahmedabad for you. Apply Now.
+Sat Jun 21 17:05:10 2025 - [EMAIL] From: newsletters-noreply@linkedin.com, Subject: 💥 Microsoft VS OpenAI: Silicon Valley’s Power Couple Is Breaking Up
+Sat Jun 21 17:05:11 2025 - [EMAIL] From: noreply@glassdoor.com, Subject: Front End Engineer at Impact Guru and 12 more jobs in India for you. Apply Now.
+Sat Jun 21 17:05:11 2025 - [EMAIL] From: noreply@glassdoor.com, Subject: Apexon, Mantra Softech is hiring in Ahmedabad. Apply Now.
+Sat Jun 21 17:05:12 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: Jobs like "MERN/MEAN Stack Trainer - Expert Developer Educator" in "Vadodara"
+Sat Jun 21 17:05:12 2025 - [EMAIL] From: noreply@glassdoor.com, Subject: Python Developer Intern at unikwork and 10 more jobs in India for you. Apply Now.
+Sat Jun 21 17:05:13 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: Jobs like "MERN Stack Development Intern" in "Vadodara"
+Sat Jun 21 17:05:13 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack(Flutter position in Anand
+Sat Jun 21 17:05:13 2025 - [EMAIL] From: welcome@overleaf.com, Subject: Welcome to Overleaf
+Sat Jun 21 17:05:14 2025 - [EMAIL] From: newsletters-noreply@linkedin.com, Subject: 5 must reads for the weekend
+Sat Jun 21 17:05:15 2025 - [EMAIL] From: newsletter@email3.gog.com, Subject: Don't miss your discount! 🍕
+Sat Jun 21 17:05:15 2025 - [EMAIL] From: support@mailer.resume-now.com, Subject: Welcome Pratham, your resume is ready
+Sat Jun 21 17:05:16 2025 - [EMAIL] From: marketing@engage.canva.com, Subject: Achieve perfect prints with auto proofing
+Sat Jun 21 17:05:16 2025 - [EMAIL] From: tomas@kickresume.com, Subject: Just one step away!
+Sat Jun 21 17:05:17 2025 - [INFO] Script stopped by user (KeyboardInterrupt).
+Sat Jun 21 17:05:18 2025 - [resource_path] .env resolved to C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\.env
+Sat Jun 21 17:05:18 2025 - [ENV] Trying to load .env from: C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\.env
+Sat Jun 21 17:05:18 2025 - [ENV] Loaded TARGET_SENDERS raw: 22it.tpc@adit.ac.in,parekhmanoj571@gmail.com
+Sat Jun 21 17:05:18 2025 - 🚀 Script started.
+Sat Jun 21 17:05:18 2025 - [INFO] TARGET_SENDERS loaded: ['22it.tpc@adit.ac.in', 'parekhmanoj571@gmail.com']
+Sat Jun 21 17:05:18 2025 - [INFO] Starting Gmail authentication...
+Sat Jun 21 17:05:18 2025 - [resource_path] credentials.json resolved to C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\credentials.json
+Sat Jun 21 17:05:18 2025 - [AUTH] Checking for token.json at: C:\Python313\token.json
+Sat Jun 21 17:05:18 2025 - [AUTH] Checking for credentials.json at: C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\credentials.json
+Sat Jun 21 17:05:18 2025 - [AUTH] Loaded token.json successfully.
+Sat Jun 21 17:05:18 2025 - [INFO] Gmail authenticated successfully.
+Sat Jun 21 17:05:19 2025 - [CHECK] Found 100 unread messages.
+Sat Jun 21 17:05:19 2025 - [EMAIL] From: parekhmanoj571@gmail.com, Subject: t
+Sat Jun 21 17:05:19 2025 - [MATCH] Match found for: parekhmanoj571@gmail.com
+Sat Jun 21 17:05:19 2025 - [NOTIFY] Toast shown successfully.
+Sat Jun 21 17:05:21 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Engineer position in Vadodara
+Sat Jun 21 17:05:21 2025 - [EMAIL] From: noreply@glassdoor.com, Subject: Emgage,InXee Systems Pvt. Ltd,Weekday: Apply Now
+Sat Jun 21 17:05:21 2025 - [EMAIL] From: groups-noreply@linkedin.com, Subject: Don’t miss conversations in JavaScript
+Sat Jun 21 17:05:22 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Engineer position in anand
+Sat Jun 21 17:05:22 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Developer position in Anand
+Sat Jun 21 17:05:23 2025 - [EMAIL] From: buyonline@info.tataaia.com, Subject: Secure Lower Premiums & additional 5% discount Before the Price Hike only with Tata AIA Life!
+Sat Jun 21 17:05:23 2025 - [EMAIL] From: ventures@duskytech.co, Subject: Software Developer Role
+Sat Jun 21 17:05:24 2025 - [EMAIL] From: no-reply@accounts.google.com, Subject: Security alert
+Sat Jun 21 17:05:25 2025 - [INFO] Script stopped by user (KeyboardInterrupt).
+Sat Jun 21 17:05:52 2025 - [resource_path] .env resolved to C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\.env
+Sat Jun 21 17:05:52 2025 - [ENV] Trying to load .env from: C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\.env
+Sat Jun 21 17:05:52 2025 - [ENV] Loaded TARGET_SENDERS raw: 22it.tpc@adit.ac.in,parekhmanoj571@gmail.com
+Sat Jun 21 17:05:52 2025 - 🚀 Script started.
+Sat Jun 21 17:05:52 2025 - [INFO] TARGET_SENDERS loaded: ['22it.tpc@adit.ac.in', 'parekhmanoj571@gmail.com']
+Sat Jun 21 17:05:52 2025 - [INFO] Starting Gmail authentication...
+Sat Jun 21 17:05:52 2025 - [resource_path] credentials.json resolved to C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\credentials.json
+Sat Jun 21 17:05:52 2025 - [AUTH] Checking for token.json at: C:\Python313\token.json
+Sat Jun 21 17:05:52 2025 - [AUTH] Checking for credentials.json at: C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\credentials.json
+Sat Jun 21 17:05:52 2025 - [AUTH] Loaded token.json successfully.
+Sat Jun 21 17:05:52 2025 - [INFO] Gmail authenticated successfully.
+Sat Jun 21 17:05:53 2025 - [CHECK] Found 100 unread messages.
+Sat Jun 21 17:05:53 2025 - [EMAIL] From: parekhmanoj571@gmail.com, Subject: t
+Sat Jun 21 17:05:53 2025 - [MATCH] Match found for: parekhmanoj571@gmail.com
+Sat Jun 21 17:05:53 2025 - [NOTIFY] Toast shown successfully.
+Sat Jun 21 17:05:55 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Engineer position in Vadodara
+Sat Jun 21 17:05:55 2025 - [EMAIL] From: noreply@glassdoor.com, Subject: Emgage,InXee Systems Pvt. Ltd,Weekday: Apply Now
+Sat Jun 21 17:05:56 2025 - [INFO] Script stopped by user (KeyboardInterrupt).
+Sat Jun 21 17:52:07 2025 - 🚀 Script started.
+Sat Jun 21 17:52:07 2025 - [INFO] TARGET_SENDERS loaded: ['22it.tpc@adit.ac.in', 'parekhmanoj571@gmail.com']
+Sat Jun 21 17:52:27 2025 - [INFO] Script stopped by user.
+Sat Jun 21 18:10:49 2025 - [resource_path] .env resolved to C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\.env
+Sat Jun 21 18:10:49 2025 - [ENV] Trying to load .env from: C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\.env
+Sat Jun 21 18:10:49 2025 - [ENV] Loaded TARGET_SENDERS raw: 22it.tpc@adit.ac.in,parekhmanoj571@gmail.com
+Sat Jun 21 18:10:49 2025 - 🚀 Script started.
+Sat Jun 21 18:10:49 2025 - [INFO] TARGET_SENDERS loaded: ['22it.tpc@adit.ac.in', 'parekhmanoj571@gmail.com']
+Sat Jun 21 18:10:49 2025 - [INFO] Starting Gmail authentication...
+Sat Jun 21 18:10:49 2025 - [resource_path] credentials.json resolved to C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\credentials.json
+Sat Jun 21 18:10:49 2025 - [AUTH] Checking for token.json at: C:\Python313\token.json
+Sat Jun 21 18:10:49 2025 - [AUTH] Checking for credentials.json at: C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\credentials.json
+Sat Jun 21 18:10:49 2025 - [AUTH] Loaded token.json successfully.
+Sat Jun 21 18:10:49 2025 - [AUTH] No valid token found. Starting manual browser OAuth flow...
+Sat Jun 21 18:10:49 2025 - [AUTH] Opened URL in Chrome: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=1058562286973-or83qq8qcpd3htpi0llhofd37kvkm553.apps.googleusercontent.com&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly&state=BLEl4bbi8T0I8LnFRbppksVPL5TiEW&prompt=consent&access_type=offline&include_granted_scopes=true
+Sat Jun 21 18:10:57 2025 - [AUTH] New token.json saved.
+Sat Jun 21 18:10:57 2025 - [INFO] Gmail authenticated successfully.
+Sat Jun 21 18:10:58 2025 - [CHECK] Found 100 unread messages.
+Sat Jun 21 18:10:59 2025 - [EMAIL] From: parekhmanoj571@gmail.com, Subject: sfsgfs
+Sat Jun 21 18:10:59 2025 - [MATCH] Match found for: parekhmanoj571@gmail.com
+Sat Jun 21 18:10:59 2025 - [NOTIFY] Toast shown successfully.
+Sat Jun 21 18:11:00 2025 - [EMAIL] From: parekhmanoj571@gmail.com, Subject: tt
+Sat Jun 21 18:11:00 2025 - [MATCH] Match found for: parekhmanoj571@gmail.com
+Sat Jun 21 18:11:00 2025 - [NOTIFY] Toast shown successfully.
+Sat Jun 21 18:11:02 2025 - [EMAIL] From: parekhmanoj571@gmail.com, Subject: tdgdfhk
+Sat Jun 21 18:11:02 2025 - [MATCH] Match found for: parekhmanoj571@gmail.com
+Sat Jun 21 18:11:02 2025 - [NOTIFY] Toast shown successfully.
+Sat Jun 21 18:11:03 2025 - [EMAIL] From: parekhmanoj571@gmail.com, Subject: testing
+Sat Jun 21 18:11:03 2025 - [MATCH] Match found for: parekhmanoj571@gmail.com
+Sat Jun 21 18:11:03 2025 - [NOTIFY] Toast shown successfully.
+Sat Jun 21 18:11:05 2025 - [EMAIL] From: parekhmanoj571@gmail.com, Subject: r4t
+Sat Jun 21 18:11:05 2025 - [MATCH] Match found for: parekhmanoj571@gmail.com
+Sat Jun 21 18:11:05 2025 - [NOTIFY] Toast shown successfully.
+Sat Jun 21 18:11:06 2025 - [EMAIL] From: parekhmanoj571@gmail.com, Subject: tt
+Sat Jun 21 18:11:06 2025 - [MATCH] Match found for: parekhmanoj571@gmail.com
+Sat Jun 21 18:11:06 2025 - [NOTIFY] Toast shown successfully.
+Sat Jun 21 18:11:08 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Engineer position in Vadodara
+Sat Jun 21 18:11:08 2025 - [EMAIL] From: noreply@glassdoor.com, Subject: Emgage,InXee Systems Pvt. Ltd,Weekday: Apply Now
+Sat Jun 21 18:11:09 2025 - [EMAIL] From: groups-noreply@linkedin.com, Subject: Don’t miss conversations in JavaScript
+Sat Jun 21 18:11:09 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Engineer position in anand
+Sat Jun 21 18:11:10 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Developer position in Anand
+Sat Jun 21 18:11:10 2025 - [EMAIL] From: buyonline@info.tataaia.com, Subject: Secure Lower Premiums & additional 5% discount Before the Price Hike only with Tata AIA Life!
+Sat Jun 21 18:11:11 2025 - [EMAIL] From: no-reply@accounts.google.com, Subject: Security alert
+Sat Jun 21 18:11:11 2025 - [EMAIL] From: alert@notification.bebee.com, Subject: New Full Stack Engineer position in Anand
+Sat Jun 21 18:11:12 2025 - [INFO] Script stopped by user (KeyboardInterrupt).
+Sat Jun 21 18:17:34 2025 - [resource_path] .env resolved to C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\.env
+Sat Jun 21 18:17:34 2025 - [ENV] Trying to load .env from: C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\.env
+Sat Jun 21 18:17:34 2025 - [ENV] Loaded TARGET_SENDERS raw: 22it.tpc@adit.ac.in,parekhmanoj571@gmail.com
+Sat Jun 21 18:17:34 2025 - 🚀 Script started.
+Sat Jun 21 18:17:34 2025 - [INFO] TARGET_SENDERS loaded: ['22it.tpc@adit.ac.in', 'parekhmanoj571@gmail.com']
+Sat Jun 21 18:17:34 2025 - [INFO] Starting Gmail authentication...
+Sat Jun 21 18:17:34 2025 - [resource_path] credentials.json resolved to C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\credentials.json
+Sat Jun 21 18:17:34 2025 - [AUTH] Checking for token.json at: C:\Python313\token.json
+Sat Jun 21 18:17:34 2025 - [AUTH] Checking for credentials.json at: C:\Users\Pratham\OneDrive\Documents\Desktop\G-mail Automation\credentials.json
+Sat Jun 21 18:17:34 2025 - [AUTH] Loaded token.json successfully.
+Sat Jun 21 18:17:34 2025 - [INFO] Gmail authenticated successfully.
+Sat Jun 21 18:17:35 2025 - [CHECK] Found 100 unread messages.
+Sat Jun 21 18:17:36 2025 - [EMAIL] From: parekhmanoj571@gmail.com, Subject: sfsgfs
+Sat Jun 21 18:17:36 2025 - [MATCH] Match found for: parekhmanoj571@gmail.com
+Sat Jun 21 18:17:36 2025 - [NOTIFY] Toast shown successfully.
+Sat Jun 21 18:17:37 2025 - [EMAIL] From: parekhmanoj571@gmail.com, Subject: tt
+Sat Jun 21 18:17:37 2025 - [MATCH] Match found for: parekhmanoj571@gmail.com
+Sat Jun 21 18:17:37 2025 - [NOTIFY] Toast shown successfully.
+Sat Jun 21 18:17:39 2025 - [EMAIL] From: parekhmanoj571@gmail.com, Subject: tdgdfhk
+Sat Jun 21 18:17:39 2025 - [MATCH] Match found for: parekhmanoj571@gmail.com
+Sat Jun 21 18:17:39 2025 - [NOTIFY] Toast shown successfully.
+Sat Jun 21 18:17:40 2025 - [EMAIL] From: parekhmanoj571@gmail.com, Subject: testing
+Sat Jun 21 18:17:40 2025 - [MATCH] Match found for: parekhmanoj571@gmail.com
+Sat Jun 21 18:17:40 2025 - [NOTIFY] Toast shown successfully.
+Sat Jun 21 18:17:42 2025 - [EMAIL] From: parekhmanoj571@gmail.com, Subject: r4t
+Sat Jun 21 18:17:42 2025 - [MATCH] Match found for: parekhmanoj571@gmail.com
+Sat Jun 21 18:17:42 2025 - [NOTIFY] Toast shown successfully.
+Sat Jun 21 18:17:43 2025 - [EMAIL] From: parekhmanoj571@gmail.com, Subject: tt
+Sat Jun 21 18:17:43 2025 - [MATCH] Match found for: parekhmanoj571@gmail.com
+Sat Jun 21 18:17:43 2025 - [NOTIFY] Toast shown successfully.
+Sat Jun 21 18:17:44 2025 - [INFO] Script stopped by user (KeyboardInterrupt).
